@@ -87,23 +87,12 @@
 
       {
           "id": 9,
-          "tweet_text": "I saw the cutest doggo today #Dog",
+          "tweet_text": "I saw the cutest doggo today #Dogs",
           "number_of_likes": 32,
           "number_of_retweets": 65,
           "number_of_replies": 14,
           "number_of_impressions": 300,
           "location": "Paris, France",
           "date_time": "Sat 12 May 2017 05:00 UTC"
-      },
-
-      {
-          "id": 10,
-          "tweet_text": "Eating a great breakfast #EarlyBird",
-          "number_of_likes": 3,
-          "number_of_retweets": 1,
-          "number_of_replies": 0,
-          "number_of_impressions": 10,
-          "location": "New York, USA",
-          "date_time": "Sat 12 May 2017 02:00 UTC"
       }
 ]
