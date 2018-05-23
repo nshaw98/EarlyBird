@@ -1,0 +1,109 @@
+[
+	{
+  				"id": 1,
+  				"tweet_text": "I love dogs! #Dogs",
+   				"number_of_likes": 14,
+   				"number_of_retweets": 53,
+  				"number_of_replies": 345,
+   				"number_of_impressions": 1034,
+   				"location": "Paris, France",
+   				"date_time": "Sat 13 May 2017 01:00 UTC"
+			},
+			{
+  				"id": 2,
+  				"tweet_text": "I hate cats! #CatsAreEvil",
+   				"number_of_likes": 34,
+   				"number_of_retweets": 23,
+   				"number_of_replies": 12,
+   				"number_of_impressions": 2034,
+   				"location": "Lagos, Nigeria",
+   				"date_time": "Sat 13 May 2017 07:00 UTC"
+			},
+			{
+  				"id": 3,
+  				"tweet_text": "Dogs are wonderful!!!!!! #Dogs",
+   				"number_of_likes": 39,
+   				"number_of_retweets": 73,
+   				"number_of_replies": 17,
+   				"number_of_impressions": 203,
+   				"location": "London, England",
+   				"date_time": "Sat 13 May 2017 05:00 UTC"
+			},
+      {
+          "id": 4,
+          "tweet_text": "My dog is my best friend #Dogs",
+          "number_of_likes": 23,
+          "number_of_retweets": 65,
+          "number_of_replies": 34,
+          "number_of_impressions": 203,
+          "location": "Paris, France",
+          "date_time": "Sat 13 May 2017 06:00 UTC"
+      },
+
+      {
+          "id": 5,
+          "tweet_text": "Had a good time at Twitter HQ #EarlyBird",
+          "number_of_likes": 98,
+          "number_of_retweets": 53,
+          "number_of_replies": 15,
+          "number_of_impressions": 203,
+          "location": "Paris, France",
+          "date_time": "Sat 13 May 2017 04:00 UTC"
+      },
+
+
+      {
+          "id": 6,
+          "tweet_text": "I am so hungryyyyy #Hangry",
+          "number_of_likes": 45,
+          "number_of_retweets": 34,
+          "number_of_replies": 29,
+          "number_of_impressions": 89,
+          "location": "Paris, France",
+          "date_time": "Sat 11 May 2017 05:00 UTC"
+      },
+
+      {
+          "id": 7,
+          "tweet_text": "Having a blast #EarlyBird",
+          "number_of_likes": 65,
+          "number_of_retweets": 78,
+          "number_of_replies": 20,
+          "number_of_impressions": 400,
+          "location": "Paris, France",
+          "date_time": "Sat 12 May 2017 07:00 UTC"
+      },
+
+      {
+          "id": 8,
+          "tweet_text": "The food at @TwitterSF is amazing #Satisfied #EarlyBird",
+          "number_of_likes": 35,
+          "number_of_retweets": 87,
+          "number_of_replies": 60,
+          "number_of_impressions": 200,
+          "location": "Paris, France",
+          "date_time": "Sat 14 May 2017 09:00 UTC"
+      },
+
+      {
+          "id": 9,
+          "tweet_text": "I saw the cutest doggo today #Dog",
+          "number_of_likes": 32,
+          "number_of_retweets": 65,
+          "number_of_replies": 14,
+          "number_of_impressions": 300,
+          "location": "Paris, France",
+          "date_time": "Sat 12 May 2017 05:00 UTC"
+      },
+
+      {
+          "id": 10,
+          "tweet_text": "Eating a great breakfast #EarlyBird",
+          "number_of_likes": 3,
+          "number_of_retweets": 1,
+          "number_of_replies": 0,
+          "number_of_impressions": 10,
+          "location": "New York, USA",
+          "date_time": "Sat 12 May 2017 02:00 UTC"
+      }
+]
