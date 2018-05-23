@@ -94,5 +94,16 @@
           "number_of_impressions": 300,
           "location": "Paris, France",
           "date_time": "Sat 12 May 2017 05:00 UTC"
+      },
+
+      {
+          "id": 10,
+          "tweet_text": "Binary search is faster than linear search, but only works if your data is in order #Shortcut",
+          "number_of_likes": 65,
+          "number_of_retweets": 23,
+          "number_of_replies": 14,
+          "number_of_impressions": 500,
+          "location": "New York, USA",
+          "date_time": "Sat 12 May 2017 07:00 UTC"
       }
 ]
