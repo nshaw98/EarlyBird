@@ -1,0 +1,12 @@
+[
+	{
+        "id": 1,
+        "tweet_text": "I am so hungryyyyy #Hangry",
+        "number_of_likes": 45,
+        "number_of_retweets": 34,
+        "number_of_replies": 29,
+        "number_of_impressions": 89,
+        "location": "Paris, France",
+        "date_time": "Sat 11 May 2017 05:00 UTC"
+    }
+]

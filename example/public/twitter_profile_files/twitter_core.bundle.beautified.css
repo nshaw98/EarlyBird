@@ -6791,51 +6791,16 @@ li.stream-item.highlighted {
     clear: none
 }
 
-.center-arrow {
-    text-align: left !important;
-}
-#top {
+.tweet-top {
     border-bottom: 1px solid #e6ecf0;
-    cursor: pointer;
-    height: 85px;
-    text-align: center;
-    line-height: 100px;
-    vertical-align: middle;
-
-    color: #1b95f2; 
-    font-family: 'Helvetica Neue', 
-    sans-serif; 
-    font-size: 75px; 
-    font-weight: bold; 
-    letter-spacing: -1px; 
-    line-height: 1; 
-    text-align: center;
+    cursor: pointer
+    height: 200px;
 }
-
-#rest {
-    border-bottom: 1px solid #e6ecf0;
-    cursor: pointer;
-    height: 70px;
-    text-align: center;
-    line-height: 70px !important;
-    vertical-align: middle;
-
-    color: #1da1f2; 
-    font-family: 'Helvetica Neue', 
-    sans-serif; 
-    font-size: 35px; 
-    font-weight: bold; 
-    letter-spacing: -1px; 
-    line-height: 1; 
-    text-align: center;
-}
-
-
 
 .tweet {
     border-bottom: 1px solid #e6ecf0;
-    cursor: pointer;
-    
+    cursor: pointer
+    text-align: center;
 }
 .tweet p {
     word-wrap: break-word

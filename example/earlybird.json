@@ -1,0 +1,38 @@
+[
+	{
+  			
+          "id": 1,
+          "tweet_text": "Had a good time at Twitter HQ #EarlyBird",
+          "number_of_likes": 98,
+          "number_of_retweets": 53,
+          "number_of_replies": 15,
+          "number_of_impressions": 203,
+          "location": "Paris, France",
+          "date_time": "Sat 13 May 2017 04:00 UTC"
+      },
+
+
+      {
+          "id": 2,
+          "tweet_text": "Having a blast #EarlyBird",
+          "number_of_likes": 65,
+          "number_of_retweets": 78,
+          "number_of_replies": 20,
+          "number_of_impressions": 400,
+          "location": "Paris, France",
+          "date_time": "Sat 12 May 2017 07:00 UTC"
+      },
+
+      {
+          "id": 3,
+          "tweet_text": "The food at @TwitterSF is amazing #Satisfied #EarlyBird",
+          "number_of_likes": 35,
+          "number_of_retweets": 87,
+          "number_of_replies": 60,
+          "number_of_impressions": 200,
+          "location": "Paris, France",
+          "date_time": "Sat 14 May 2017 09:00 UTC"
+      }
+
+    
+]
